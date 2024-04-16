@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c82f36d2.css",
+    "main.js": "/static/js/main.7f4ff225.js",
+    "static/media/yeast_cells_fast.mp4": "/static/media/yeast_cells_fast.27ced87fbe9e5ebc5a3c.mp4",
+    "static/media/lecture-superfast-crop.mp4": "/static/media/lecture-superfast-crop.b9dc43061c407d39de2d.mp4",
+    "static/media/patents.png": "/static/media/patents.81549c3cba6d0d57a71a.png",
+    "static/media/sick-goose.png": "/static/media/sick-goose.58ac07d9f63c70b3f2db.png",
+    "static/media/gme.gif": "/static/media/gme.82bce65bad95635f2fc4.gif",
+    "static/media/regional-representation.png": "/static/media/regional-representation.bfd25fb3c253c62ef975.png",
+    "static/media/tomb-stones.png": "/static/media/tomb-stones.24a30684da751c5b8f68.png",
+    "static/media/whose-i.png": "/static/media/whose-i.3ded8a34357081df751e.png",
+    "static/media/color-segmentation.png": "/static/media/color-segmentation.e55a4b3949b7df652485.png",
+    "static/media/news-sentiment.png": "/static/media/news-sentiment.0e3ba23d075643f7cd04.png",
+    "static/media/rugr_logoen_rood_rgb-web-small.png": "/static/media/rugr_logoen_rood_rgb-web-small.b3a33627699ec0691b75.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.c82f36d2.css",
+    "static/js/main.7f4ff225.js"
+  ]
+}
